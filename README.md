@@ -1,6 +1,6 @@
 Solidity Compiler - Modern Peephole Patterns Optimization
 
-A study of AI generated peephole patterns to reduce Gas consumption in Solidity Smart Contracts
+A study of AI Agent-generated peephole patterns to reduce Gas consumption in Solidity Smart Contracts
 
 Github issue and PR at
 https://github.com/argotorg/solidity/issues/16316
